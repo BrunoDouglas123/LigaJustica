@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "nome": "Superman",
+    "tipo": "Kriptoniano",
+    "planeta": "Kripton",
+    "poder": "Super Forca"
+  },
+  {
+    "id": 2,
+    "nome": "Batman",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Dinheiro"
+  },
+  {
+    "id": 3,
+    "nome": "Mulher Maravilha",
+    "tipo": "Amazona",
+    "planeta": "Terra",
+    "poder": "Imortalidade"
+  },
+  {
+    "id": 4,
+    "nome": "Flash",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Super Velocidade"
+  },
+  {
+    "id": 5,
+    "nome": "Lanterna Verde",
+    "tipo": "Humano",
+    "planeta": "Terra/Mogo",
+    "poder": "Projeção Infinita"
+  },
+  {
+    "id": 6,
+    "nome": "Caçador de Marte",
+    "tipo": "Marciano",
+    "planeta": "Marte",
+    "poder": "Metamorfose"
+  },
+  {
+    "id": 7,
+    "nome": "Mulher Gavião",
+    "tipo": "Thanagariana",
+    "planeta": "Thanagar",
+    "poder": "Voo"
+  },
+  {
+    "id": 8,
+    "nome": "Arqueiro Verde",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Nenhum"
+  },
+  {
+    "id": 9,
+    "nome": "Capitão Átomo",
+    "tipo": "Super Humano",
+    "planeta": "Terra",
+    "poder": "Absorção Nuclear"
+  },
+  {
+    "id": 10,
+    "nome": "Shazam",
+    "tipo": "Super Humano",
+    "planeta": "Terra",
+    "poder": "Eletricidade"
+  },
+  {
+    "id": 11,
+    "nome": "Senhor Destino",
+    "tipo": "Humano Aprimorado",
+    "planeta": "Terra",
+    "poder": "Magia Ilimitada"
+  },
+  {
+    "id": 12,
+    "nome": "Aquaman",
+    "tipo": "Atlantis",
+    "planeta": "Terra",
+    "poder": "Super Força"
+  },
+  {
+    "id": 13,
+    "nome": "Questão",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Nenhum"
+  },
+  {
+    "id": 14,
+    "nome": "Homem Borracha",
+    "tipo": "Super Humano",
+    "planeta": "Terra",
+    "poder": "Elasticidade"
+  },
+  {
+    "id": 15,
+    "nome": "Senhor Milagre",
+    "tipo": "Super Humano",
+    "planeta": "Apokolips",
+    "poder": "Escapismo"
+  },
+  {
+    "id": 16,
+    "nome": "Vibro",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Teletransporte"
+  },
+  {
+    "id": 17,
+    "nome": "Atomo",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Controle Molecular"
+  },
+  {
+    "id": 18,
+    "nome": "Kid Flash",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Super Velocidade"
+  },
+  {
+    "id": 19,
+    "nome": "Vigilante",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Nenhum"
+  },
+  {
+    "id": 20,
+    "nome": "Ricardito",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Nenhum"
+  },
+  {
+    "id": 21,
+    "nome": "Aqualad",
+    "tipo": "Atlantis",
+    "planeta": "Terra",
+    "poder": "Super Força"
+  },
+  {
+    "id": 22,
+    "nome": "Pantera",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Super Força"
+  },
+  {
+    "id": 23,
+    "nome": "Esmaga Átomo",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Imunidade a Radiação"
+  },
+  {
+    "id": 24,
+    "nome": "Super Choque",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Controle Magnético"
+  },
+  {
+    "id": 25,
+    "nome": "Surfista Dourado",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Voo"
+  },
+  {
+    "id": 26,
+    "nome": "Jericó",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Metamorfose por Toque"
+  },
+  {
+    "id": 27,
+    "nome": "Arauto",
+    "tipo": "Humano",
+    "planeta": "Terra 2",
+    "poder": "Teletransporte"
+  },
+  {
+    "id": 28,
+    "nome": "Megawatt",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Eletricidade"
+  },
+  {
+    "id": 29,
+    "nome": "Robin",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Nenhum"
+  },
+  {
+    "id": 30,
+    "nome": "Hercules",
+    "tipo": "SemiDeus",
+    "planeta": "Terra",
+    "poder": "Força Divina"
+  },
+  {
+    "id": 31,
+    "nome": "Gnarck",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Super Força"
+  },
+  {
+    "id": 32,
+    "nome": "Tran",
+    "tipo": "Atlantis",
+    "planeta": "Terra",
+    "poder": "Super Inteligência"
+  },
+  {
+    "id": 33,
+    "nome": "HotSpot",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Fogo e Lava"
+  },
+  {
+    "id": 34,
+    "nome": "Gnu",
+    "tipo": "Animal Aprimorado",
+    "planeta": "Terra",
+    "poder": "Super Força"
+  },
+  {
+    "id": 35,
+    "nome": "Estrela Vermelha",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Absorção Nuclear"
+  },
+  {
+    "id": 36,
+    "nome": "Mutano",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Metamorfose Animal"
+  },
+  {
+    "id": 37,
+    "nome": "Cyborg",
+    "tipo": "Super Humano",
+    "planeta": "Terra",
+    "poder": "Super Inteligência"
+  },
+  {
+    "id": 38,
+    "nome": "Más e Menos",
+    "tipo": "Meta Humanos",
+    "planeta": "Terra",
+    "poder": "Super Velocidade ao Toque"
+  },
+  {
+    "id": 39,
+    "nome": "Bushido",
+    "tipo": "Humano",
+    "planeta": "Terra",
+    "poder": "Mestre Espadachim"
+  },
+  {
+    "id": 40,
+    "nome": "Fera Bwana",
+    "tipo": "Meta Humano",
+    "planeta": "Terra",
+    "poder": "Comunição Animal"
+  },
+  {
+    "id": 41,
+    "nome": "Super Moça",
+    "tipo": "Kriptoniana",
+    "planeta": "Kripton",
+    "poder": "Super Força"
+  },
+  {
+    "id": 42,
+    "nome": "Zatanna",
+    "tipo": "Humana",
+    "planeta": "Terra",
+    "poder": "Magia"
+  },
+  {
+    "id": 43,
+    "nome": "Caçadora",
+    "tipo": "Humana",
+    "planeta": "Terra",
+    "poder": "Nenhum"
+  },
+  {
+    "id": 44,
+    "nome": "Argenta",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Projeção Infinita"
+  },
+  {
+    "id": 45,
+    "nome": "Estelar",
+    "tipo": "Tamaraniana",
+    "planeta": "Tamanran",
+    "poder": "Voo"
+  },
+  {
+    "id": 46,
+    "nome": "Ravena",
+    "tipo": "Azarat",
+    "planeta": "Terra",
+    "poder": "Magia Negra"
+  },
+  {
+    "id": 47,
+    "nome": "Abelha",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Voo"
+  },
+  {
+    "id": 48,
+    "nome": "Cole",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Armadura de Cristal"
+  },
+  {
+    "id": 49,
+    "nome": "Canário Negro",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Grito Sônico"
+  },
+  {
+    "id": 50,
+    "nome": "Doutora Luz",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Projeção Luminosa"
+  },
+  {
+    "id": 51,
+    "nome": "Mera",
+    "tipo": "Atlantis",
+    "planeta": "Terra",
+    "poder": "Hidrocinese"
+  },
+  {
+    "id": 52,
+    "nome": "Jesse Quick",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Super Velocidade"
+  },
+  {
+    "id": 53,
+    "nome": "Vixen",
+    "tipo": "Meta Humana",
+    "planeta": "Terra",
+    "poder": "Poderes Animais"
+  }
+]
